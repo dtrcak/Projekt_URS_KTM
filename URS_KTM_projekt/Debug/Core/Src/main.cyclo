@@ -1,0 +1,8 @@
+../Core/Src/main.c:76:6:lcd_naredba	1
+../Core/Src/main.c:91:6:lcd_podatak	1
+../Core/Src/main.c:106:6:lcd_set_cursor	3
+../Core/Src/main.c:124:5:main	13
+../Core/Src/main.c:320:6:SystemClock_Config	3
+../Core/Src/main.c:359:6:HAL_GPIO_EXTI_Callback	5
+../Core/Src/main.c:370:6:HAL_TIM_PeriodElapsedCallback	4
+../Core/Src/main.c:392:6:Error_Handler	1

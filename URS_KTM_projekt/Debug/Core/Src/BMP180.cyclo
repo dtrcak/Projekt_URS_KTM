@@ -1,0 +1,4 @@
+../Core/Src/BMP180.c:40:6:read_calliberation_data	1
+../Core/Src/BMP180.c:63:10:Get_UTemp	1
+../Core/Src/BMP180.c:73:7:BMP180_GetTemp	1
+../Core/Src/BMP180.c:84:6:BMP180_Start	1

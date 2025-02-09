@@ -1,0 +1,8 @@
+../Core/Src/main.c:76:6:lcd_naredba	32	static
+../Core/Src/main.c:91:6:lcd_podatak	32	static
+../Core/Src/main.c:106:6:lcd_set_cursor	16	static
+../Core/Src/main.c:124:5:main	160	static
+../Core/Src/main.c:320:6:SystemClock_Config	88	static
+../Core/Src/main.c:359:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:370:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:392:6:Error_Handler	4	static,ignoring_inline_asm
